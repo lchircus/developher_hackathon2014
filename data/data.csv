@@ -1,4 +1,4 @@
-JobTitle,Company,StartDate,EndDate,Duration,Location,Duration_months,JobType
+JobTitle,Company,StartDate,EndDate,Duration,Location,Duration_yr,JobType
 Graduate Research Assistant,"Vuletic Group, Department of Physics, Massachusetts Institute of Technology",September 2010,Present,4 years 3 months,"Holmdel, NJ",4.25,Research
 Founder &amp; CEO,LEIA Inc.,January 2014,Present,11 months,"Menlo Park, CA",0.916666666667,Founder
 User Experience Designer,Intertrust Technologies Corporation,May 2014,Present,7 months,San Francisco Bay Area,0.583333333333,Designer
@@ -40,7 +40,7 @@ Lecturer,Boston College,January 2010,Present,4 years 11 months,"Chestnut Hill, M
 Stage Director/Lecturer,Bentley University,May 2011,May 2014,3 years 1 month,"Waltham, MA",3.08333333333,Academia
 Assistant Stage Director for The Two Gentlemen of Verona,Commonwealth Shakespeare Company,2013,2013,less than a year,"Natick, MA",-1.0,Assistant
 Project Manager - Strategic Planning,BHP Billiton Petroleum,December 2012,Present,2 years,"Houston, Texas Area",2.0,PM
-Consultant,The Boston Consulting Group,June 2010,December 2012,2 years 7 months,"Houston, Texas Area",2.58333333333,Other
+Consultant,The Boston Consulting Group,June 2010,December 2012,2 years 7 months,"Houston, Texas Area",2.58333333333,Consultant
 Research Geophysicist,Shell International E&amp;P,March 2009,May 2010,1 year 3 months,"Houston, Texas Area",1.25,Research
 Research Assistant,Massachusetts Institute of Technology,September 2002,February 2009,6 years 6 months,"Cambridge, MA",6.5,Research
 Summer Intern,Shell International E&amp;P,June 2008,August 2008,3 months,"Houston, Texas Area",0.25,Intern
@@ -110,14 +110,14 @@ Senior Conceptual Engineer/Power System Engineer,AltaLink,February 2012,March 20
 Geointelligence Analysis Intern,Skybox Imaging,June 2014,Present,6 months,"Mountain View, CA",0.5,Intern
 "Director, People / HRBP",Rocket Fuel Inc.,2013,Present,1 year,"Redwood Shores, CA",1.0,Other
 "Executive Director, Co-Founder, Board of Directors",BioCurious,2009,2014,5 years,"Sunnyvale, CA",5.0,Founder
-Head of People Operations &amp; Talent Acquisition (Consultant),Singularity University,2012,2013,1 year,"Mountain View, NASA/Ames Campus",1.0,Other
-"Senior Consultant, People Team",Rocket Fuel Inc.,2011,2013,2 years,"Redwood Shores, CA",2.0,Other
-HR Executive / Principal Consultant,Kristina Hathaway Consulting,2010,2013,3 years,San Francisco Bay Area,3.0,Other
-"VP, People and Talent (Consultant)",Station X,2010,2013,3 years,"Redwood City, CA",3.0,Other
+Head of People Operations &amp; Talent Acquisition (Consultant),Singularity University,2012,2013,1 year,"Mountain View, NASA/Ames Campus",1.0,Consultant
+"Senior Consultant, People Team",Rocket Fuel Inc.,2011,2013,2 years,"Redwood Shores, CA",2.0,Consultant
+HR Executive / Principal Consultant,Kristina Hathaway Consulting,2010,2013,3 years,San Francisco Bay Area,3.0,Consultant
+"VP, People and Talent (Consultant)",Station X,2010,2013,3 years,"Redwood City, CA",3.0,Consultant
 "Vice President, Life Sciences",Sage Human Capital,2010,2011,1 year,"San Bruno, CA",1.0,Other
 "Director, Human Resources",UBC Clinical Technologies (now Bracket),2009,2010,1 year,"San Francisco, CA",1.0,Other
 "Director, Human Resources",Tercica (now Ipsen),2009,2009,less than a year,"Brisbane, CA (Company Headquarters in Paris, France)",-1.0,Other
-Principal Consultant,Kristina Hathaway Consulting,2008,2009,1 year,"Mountain View, CA",1.0,Other
+Principal Consultant,Kristina Hathaway Consulting,2008,2009,1 year,"Mountain View, CA",1.0,Consultant
 Product Engineer,Lam Research,August 2014,Present,4 months,"Fremont, CA",0.333333333333,Engineer
 Postdoctoral Fellow,Lawrence Berkeley National Laboratory,November 2012,Present,2 years 1 month,Berkeley,2.08333333333,Postdoc
 Research Associate,Stanford University,May 2009,October 2012,3 years 6 months,Stanford,3.5,Research
@@ -169,7 +169,7 @@ Research Assistant,TRIUMF,May 2007,August 2007,4 months,"Vancouver, Canada",0.33
 Research Assistant,Argonne National Laboratory,May 2006,August 2006,4 months,"Argonne, IL",0.333333333333,Research
 Research Assistant,Dalhousie University,May 2005,August 2005,4 months,"Halifax, Canada",0.333333333333,Research
 Associate,Bank of America Merrill Lynch,August 2012,Present,2 years 4 months,"New York, NY",2.33333333333,Other
-Simulation Consultant,Ausenco,October 2012,Present,2 years 2 months,"Vancouver, BC",2.16666666667,Other
+Simulation Consultant,Ausenco,October 2012,Present,2 years 2 months,"Vancouver, BC",2.16666666667,Consultant
 CEO and Co-founder,VitalMedicals,August 2013,Present,1 year 4 months,San Francisco Bay Area,1.33333333333,Founder
 Development Manager,en world Japan K.K.,2008,March 2012,4 years,"Tokyo, Japan",4.0,Manager
 Founder and Director,OneWorld Communications,January 2006,March 2012,6 years 3 months,"Tokyo, Japan",6.25,Founder
@@ -222,7 +222,7 @@ Engineer,IBM,September 2013,Present,1 year 3 months,"Albany, New York Area",1.25
 Graduate Research Assistant,Massachusetts Institute of Technology,September 2008,July 2013,4 years 11 months,"Cambridge, MA",4.91666666667,Research
 Member of Technical Staff - HPC and Algorithms,Skytree - The Machine Learning Company&#xae;,April 2014,Present,8 months,san francisco bay area,0.666666666667,Other
 Postdoctoral Research Scientist (Physics),Columbia University,September 2011,January 2013,1 year 5 months,greater new york city area,1.41666666667,Research
-Simulation Consultant,Ausenco,July 2008,Present,6 years 5 months,"Vancouver, BC",6.41666666667,Other
+Simulation Consultant,Ausenco,July 2008,Present,6 years 5 months,"Vancouver, BC",6.41666666667,Consultant
 Graduate Research Assistant,Massachusetts Institute of Technology (MIT),September 2008,Present,6 years 3 months,Research Laboratory of Electronics,6.25,Research
 Teaching Assistant,Massachusetts Institute of Technology (MIT),September 2012,Present,2 years 3 months,Department of Electrical Engineering and Computer Science,2.25,Assistant
 Undergraduate Research Assistant,The University of British Columbia,May 2007,August 2007,4 months,Advanced Materials and Process Engineering Laboratory,0.333333333333,Research
@@ -294,3 +294,196 @@ Graduate Research Assistant,MIT,August 2004,January 2011,6 years 6 months,"Cambr
 Intellectual Property Administrator,Novadaq Technologies Inc.,February 2013,March 2014,1 year 2 months,"Vancouver, Canada Area",1.16666666667,Other
 Law Graduate - LL.B. with Honours (Senior Status),University of Nottingham,September 2010,June 2012,1 year 10 months,"Nottingham, UK",1.83333333333,Other
 Data Steward,McCarthy T&#xe9;trault,2012,2012,less than a year,"Vancouver, Canada Area",-1.0,Other
+Sr. Account Executive,7thonline,July 2014,Present,5 months,"24 West 40th Street New York, NY. 10018",0.416666666667,Other
+Software Engineer,Uber,October 2014,Present,2 months,"San Francisco, California",0.166666666667,Software Eng
+Co-Founder and former CTO,Standard Treasury,July 2013,Present,1 year 5 months,"san francisco, ca",1.41666666667,Founder
+Strategic Partnerships,Science Exchange,March 2014,Present,9 months,United States,0.75,Other
+Lean Launchpad - Digital Health Track,UCSF,September 2013,December 2013,4 months,San Francisco,0.333333333333,Other
+Director Business Development,"Crown Bioscience, Inc.",February 2012,June 2013,1 year 5 months,"Crown Bioscience Inc. 3375 Scott Blvd, suite 108 Santa Clara, CA95054",1.41666666667,Other
+"Associate Director, Genomics and Proteomics","Crown Bioscience, Inc.",February 2011,February 2013,2 years 1 month,San Francisco Bay Area,2.08333333333,Other
+"Vice President, Operations &amp; Financial Advice","LearnVest, Inc.",June 2014,Present,6 months,Los Angeles,0.5,Other
+Director of Financial Planning,LearnVest Planning,July 2011,July 2014,3 years 1 month,Los Angeles &amp; New York,3.08333333333,Other
+Structural Engineer,Robert Silman Associates,April 2014,Present,8 months,Greater New York City Area,0.666666666667,Engineer
+Project Engineer,Lend Lease,December 2013,April 2014,5 months,Greater New York City Area,0.416666666667,Engineer
+Structural Engineer (Civil Engineer 2),Black &amp; Veatch,August 2011,December 2013,2 years 5 months,"Overland Park, KS",2.41666666667,Engineer
+Structures Intern,Buro Happold,May 2010,August 2010,4 months,Greater New York City Area,0.333333333333,Intern
+Intern,"Hardesty &amp; Hanover, LLP",May 2009,August 2009,4 months,Greater New York City Area,0.333333333333,Intern
+Account Manager,inMotionNow,November 2014,Present,1 month,"Morrisville, NC",0.0833333333333,Manager
+Social Media Ambassador,Food Bank of Central &amp; Eastern NC,May 2011,June 2013,2 years 2 months,"Research Triangle Park, NC",2.16666666667,Other
+Research Associate,Charles River Laboratories Pathology Associates,February 2009,May 2013,4 years 4 months,"Research Triangle Park, NC",4.33333333333,Research
+Adjunct Biology Professor,ECPI University,June 2008,June 2009,1 year 1 month,"Raleigh, NC",1.08333333333,Academia
+Electron Microscopy Technician II,Charles River Laboratories Pathology Associates,January 2008,February 2009,1 year 2 months,"Research Triangle Park, NC",1.16666666667,Other
+Scientist I,Bristol-Myers Squibb,August 2014,Present,4 months,"Syracuse, New York Area",0.333333333333,Scientist
+Graduate Research Assistant,Stanford University,January 2011,August 2014,3 years 8 months,"Stanford, CA",3.66666666667,Research
+Graduate Research Assistant,Stanford University School of Medicine,September 2008,December 2010,2 years 4 months,"Stanford, CA",2.33333333333,Research
+Cell Culture Intern,Acceleron Pharma,May 2007,September 2008,1 year 5 months,"Cambridge, MA",1.41666666667,Intern
+Volunteer Chair,East Coast Asian American Student Union (ECAASU),October 2006,March 2008,1 year 6 months,"Yale University, New Haven, Connecticut",1.5,Other
+Cytec Surface Specialties Intern,Cytec Industries,May 2006,August 2006,4 months,"Stamford, CT",0.333333333333,Intern
+Cytec Surface Specialties Intern,Cytec Industries,May 2005,August 2005,4 months,"Stamford, CT",0.333333333333,Intern
+Student Advisory Committee for Career Services (SACCS) at Career and Practicum Services Center Dept,SIT Graduate Institute,August 2014,Present,4 months,"Brattleboro, VT",0.333333333333,Student
+Corps Member,City Year,August 2013,June 2014,11 months,"san antonio, texas",0.916666666667,Other
+Independent Researcher in Biology 500 Course,Washington University in St. Louis,August 2012,May 2013,10 months,Monsanto Lab in Danforth Campus,0.833333333333,Research
+Alumni and Development Intern,Washington University in St. Louis,May 2012,September 2012,5 months,Greater St. Louis Area,0.416666666667,Intern
+Pediatric Emergency Care Research Associate,St Louis&#39;s Children Hospital,May 2010,July 2010,3 months,Barnes-Jewish Hospital,0.25,Research
+Researcher,Missouri Botanical Garden,January 2010,May 2010,5 months,Goldfarb Green House,0.416666666667,Research
+Researcher,Jeanette Goldfarb Plant Growth Facility and Missouri Botanical Garden,January 2010,May 2010,5 months,"St Louis, Missouri",0.416666666667,Research
+Work-Study Student,Washington University in St Louis,August 2009,December 2009,5 months,Washington University in St Louis Medical School,0.416666666667,Student
+Associate Quality Engineering Manager - Advanced,Stryker,May 2014,Present,7 months,Greater Denver Area,0.583333333333,Engineer
+Associate Quality Engineering Manager,Stryker,October 2013,May 2014,8 months,Greater Denver Area,0.666666666667,Engineer
+Supplier Development Engineer,Stryker Orthopaedics,June 2011,October 2013,2 years 5 months,Greater Denver Area,2.41666666667,Engineer
+Quality Engineer,Stryker Orthopaedics,August 2009,May 2011,1 year 10 months,San Francisco Bay Area,1.83333333333,Engineer
+Co-Founder &amp; CEO,Truthly,March 2014,Present,9 months,"Boulder, CO",0.75,Founder
+Lead Designer,"Brandfolder, Inc.",August 2013,December 2013,5 months,Greater Denver Area,0.416666666667,Designer
+Hackstar,TechStars,May 2013,August 2013,4 months,"Boulder, CO",0.333333333333,Other
+Technical Sales Consultant,Miltenyi Biotec,May 2014,Present,7 months,San Francisco Bay Area,0.583333333333,Consultant
+Regional Consultant,Big3Bio,May 2014,Present,7 months,San Francisco Bay Area,0.583333333333,Consultant
+Co Founder,Curium LLC,April 2014,Present,8 months,San Francisco Bay Area,0.666666666667,Founder
+Program Advisor,BayBio,March 2014,June 2014,4 months,San Francisco Bay Area,0.333333333333,Other
+"Founding President, San Francisco Bay Area Chapter",Oxbridge Biotech Roundtable,February 2013,May 2014,1 year 4 months,San Francisco Bay Area,1.33333333333,Other
+Postdoctoral Research Fellow,Stanford University School of Medicine,June 2012,May 2014,2 years,San Francisco Bay Area,2.0,Research
+HIV Pharmacotherapy Fellow,University of Southern California,July 2007,August 2008,1 year 2 months,Greater Los Angeles Area,1.16666666667,Other
+Acute Care Pharmacy Practice Resident,University of Southern California,July 2006,June 2007,1 year,Greater Los Angeles Area,1.0,Other
+Staff Pharmacist,Holy Cross Hospital,May 2005,June 2006,1 year 2 months,Miami/Fort Lauderdale Area,1.16666666667,Other
+Staff Pharmacist,"BioScrip, Inc.",May 2004,May 2005,1 year 1 month,Miami/Fort Lauderdale Area,1.08333333333,Other
+"Senior Associate, Business Analytics",LinkedIn,August 2014,Present,4 months,"Mountain View, CA",0.333333333333,Other
+Ignite Summer Student,Stanford Graduate School of Business,June 2014,July 2014,2 months,"Stanford, CA",0.166666666667,Student
+Postdoctoral Fellow,Stanford University,October 2011,July 2014,2 years 10 months,"Stanford, CA",2.83333333333,Postdoc
+Fellow,Insight Data Science,January 2014,February 2014,2 months,Mountain View,0.166666666667,Other
+Research Assistant,Vanderbilt University,August 2005,September 2011,6 years 2 months,"Nashville, TN",6.16666666667,Research
+Research Assistant,Chinese Academy of Sciences,September 2002,July 2005,2 years 11 months,"Beijing City, China",2.91666666667,Research
+Little Bit o&#39; Everything,Stripe,June 2014,Present,6 months,San Francisco Bay Area,0.5,Other
+Product Engineer,Facebook,March 2012,May 2014,2 years 3 months,Menlo Park,2.25,Engineer
+Vice President,Emergent Technologies,December 2013,June 2014,7 months,"Austin, Texas Area",0.583333333333,Other
+"Director, Business Development",XBiotech USA Inc.,August 2012,October 2013,1 year 3 months,"Austin, Texas Area",1.25,Other
+"Director, Business Development &amp; Licensing",SRI International,September 2002,August 2012,10 years,"Menlo Park, CA",10.0,Other
+Director Business Development,Pharsight,2001,2001,less than a year,"Mountain View, CA",-1.0,Other
+Associate Consultant,Plan A,October 1997,December 1999,2 years 3 months,"Palo Alto, CA",2.25,Consultant
+Research Associate,DNAX Research Institute,1984,1988,4 years,"Palo Alto, CA",4.0,Research
+"Associate, Acquisitions &amp; Development",Kimpton Hotels &amp; Restaurants,December 2012,Present,2 years,"San Francisco, CA",2.0,Other
+"Administrative Associate, Centers &amp; Initiatives for Research, Curr",Stanford Graduate School of Business,November 2013,Present,1 year 1 month,"Stanford, CA",1.08333333333,Research
+Research Assistant,Arizona State University,December 2012,August 2013,9 months,"Tucson, Arizona Area",0.75,Research
+Research Intern,"Smithsonian Institution, Museum of Natural History",May 2012,August 2012,4 months,Washington D.C. Metro Area,0.333333333333,Intern
+Research Intern,Michigan State University,May 2011,August 2011,4 months,"East Lansing, Michigan",0.333333333333,Intern
+Clinical Research and Education Coordinator,Phoenix Children&#39;s Hospital,2006,2008,2 years,"Phoenix, Arizona Area",2.0,Research
+"Executive Assistant, St. Luke&#x2019;s Medical Center",IASIS Healthcare,2005,2006,1 year,"Phoenix, Arizona Area",1.0,Assistant
+PhD Candidate,Massachusetts Institute of Technology (MIT),September 2010,Present,4 years 3 months,"Cambridge, Massachusetts",4.25,Student
+Instructor,Massachusetts Institute of Technology (MIT),January 2012,Present,2 years 11 months,"Cambridge, Massachusetts",2.91666666667,Academia
+In vitro Biology Intern,Genzyme,May 2008,August 2008,4 months,Greater Boston Area,0.333333333333,Intern
+PhD Student,Stanford University School of Medicine,September 2012,Present,2 years 3 months,"Stanford, CA",2.25,Student
+Visiting Scientist,"Avatar Biotechnologies, LLC",December 2010,July 2012,1 year 8 months,"Brooklyn, NY",1.66666666667,Scientist
+Professor,Washington University in St. Louis,2013,Present,1 year,"Dept. of Mechanical Engineering &amp; Materials Sci., Dept. of Neurological Surgery",1.0,Academia
+"Assoc. Prof. of Mechanical Engineering &amp; Materials Science, Assoc. Prof. of Neurological Sugery",Washington University,1999,Present,15 years,Washington University in St. Louis,15.0,Engineer
+VP Business Operations,Science Exchange,January 2012,August 2014,2 years 8 months,"Palo Alto, CA",2.66666666667,Other
+Policy Analyst,U.S. Department of Commerce,February 2011,June 2011,5 months,"London, United Kingdom",0.416666666667,Other
+"Co-Founder, Board Member",Gumball Capital,June 2007,June 2009,2 years 1 month,"Stanford, CA",2.08333333333,Founder
+Marketing Manager,Pager,June 2014,Present,6 months,"New York, New York",0.5,Manager
+Marketing Associate (temporary),The Corcoran Group,August 2013,October 2013,3 months,"New York, NY",0.25,Other
+Individual Giving Specialist,Teach For America,August 2012,August 2013,1 year 1 month,"New Haven, CT",1.08333333333,Other
+Individual Giving Associate,Teach For America,June 2011,August 2012,1 year 3 months,"New Haven, CT",1.25,Other
+Marketing &amp; Special Events Intern,The Consortium for Graduate Study in Management,November 2010,May 2011,7 months,Greater St. Louis Area,0.583333333333,Intern
+Lead Ceremony Organizer for 600 (Multicultural Senior Alliance),Washington University in St. Louis,August 2010,May 2011,10 months,Washington University in St. Louis,0.833333333333,Other
+"Lead Marketing, Design, and Execution for 3-Day Conference &amp; Gala for 300",Alpha Phi Omega National Service Fraternity,August 2010,May 2011,10 months,Washington University in St. Louis,0.833333333333,Other
+Development Intern: Membership and Major Gifts,Whitney Museum of American Art,June 2010,August 2010,3 months,Greater New York City Area,0.25,Intern
+Pledge Class Treasurer (Fundraiser),Alpha Phi Omega National Service Fraternity,January 2010,May 2010,5 months,Washington University in St. Louis,0.416666666667,Other
+Alumni Relations Intern,Washington University in St. Louis,August 2009,May 2010,10 months,Arts and Culture,0.833333333333,Intern
+Executive Director of Technovation,Iridescent,October 2013,Present,1 year 2 months,"Palo Alto, CA",1.16666666667,Other
+Founder and CEO,Copywriter Central,May 2012,Present,2 years 7 months,"Palo Alto, CA",2.58333333333,Founder
+Director of Marketing,Gnip,February 2010,August 2011,1 year 7 months,"Boulder, CO",1.58333333333,Other
+Senior Manager of Development,American Cancer Society,April 2008,Present,6 years 8 months,Greater St. Louis Area,6.66666666667,Manager
+Community Manager-Development,American Cancer Society,October 2001,April 2008,6 years 7 months,Greater St. Louis Area,6.58333333333,Manager
+Founding President/Member of LinkedIn&#39;s Toastmasters Club,Toastmasters International,June 2011,February 2013,1 year 9 months,Mountain View CA,1.75,Other
+Regional Manager,Wyatt Technology,October 2013,Present,1 year 2 months,San Francisco Bay Area,1.16666666667,Manager
+Board Member,STANFORD UNIVERSITY MEDICAL CENTER ALUMNI ASSOCIATION (SUMCAA) &#x2013; Board of Governor,September 2011,Present,3 years 3 months,San Francisco Bay Area,3.25,Other
+Scientist,"CALIPER &#x2013; A PERKINELMER COMPANY, Research and Development",December 2009,2013,4 years,San Francisco Bay Area,4.0,Scientist
+"Intern, Laboratory of Rami Hannoush",Department of Protein Engineering -GENENTECH,May 2009,December 2009,8 months,San Francisco Bay Area,0.666666666667,Intern
+"Graduate Research Associate, Laboratory of Prof. William I. Weis",Department of Structural Biology - STANFORD UNIVERSITY MEDICAL CENTER,September 2001,October 2008,7 years 2 months,San Francisco Bay Area,7.16666666667,Research
+"Research Assistant, Laboratory of Prof. Seth Darst",ROCKEFELLER UNIVERSITY,May 1999,September 2001,2 years 5 months,Greater New York City Area,2.41666666667,Research
+Vice President of Development,New Teacher Center,June 2010,October 2012,2 years 5 months,"Santa Cruz, CA",2.41666666667,Other
+"Vice President, Development and Marketing",Silicon Valley Education Foundation,March 2008,June 2010,2 years 4 months,"San Jose, CA",2.33333333333,Other
+"Director of Marketing, New Ventures",Nuance,August 1999,October 2002,3 years 3 months,Education,3.25,Other
+Community Specialist,Pinterest,2012,2013,1 year,San Francisco Bay Area,1.0,Other
+Stereoscopic Technical Director,ImageMovers Digital,February 2009,January 2011,2 years,"Novato, CA",2.0,Other
+Content Management Architect,CTB McGraw Hill,April 2004,February 2009,4 years 11 months,"Monterey, CA",4.91666666667,Other
+Digital Modeler,California Academy of Sciences,March 2008,June 2008,4 months,"San Francisco, CA",0.333333333333,Other
+Systems Administrator III (Core Services),Synopsys,December 1996,February 1999,2 years 3 months,"Mountain View, CA",2.25,Other
+"Trade Marketing, Sales Strategy",Anheuser-Busch InBev,June 2014,Present,6 months,Miami/Fort Lauderdale Area,0.5,Other
+Global Management Trainee,Anheuser-Busch InBev,February 2013,June 2014,1 year 5 months,Greater St. Louis Area,1.41666666667,Other
+Founder/CEO,Green Bean,January 2011,October 2013,2 years 10 months,Greater St. Louis Area,2.83333333333,Founder
+Intern,Bonfyre App,June 2012,August 2012,3 months,Greater St. Louis Area,0.25,Intern
+Consultant,Wibbitz,January 2012,April 2012,4 months,"Israel/St. Louis, MO",0.333333333333,Consultant
+Research Analyst and Grants Coordinator,TEC Edmonton,October 2011,Present,3 years 2 months,"Edmonton, Canada Area",3.16666666667,Research
+Business Development Associate,TEC Edmonton,July 2009,October 2011,2 years 4 months,"Edmonton, Canada Area",2.33333333333,Other
+"Editor, Canadian Bioinformatics Help Desk Newsletter",University of Alberta,September 2007,June 2011,3 years 10 months,"Edmonton, Canada Area",3.83333333333,Other
+"Outreach Coordinator, Canadian Bioinformatics Help Desk",University of Alberta,October 2008,March 2009,6 months,"Edmonton, Canada Area",0.5,Other
+Metabolomics Platform Manager,University of Alberta,July 2008,October 2008,4 months,"Edmonton, Canada Area",0.333333333333,Manager
+"Editor, Canadian Bioinformatics Help Desk Newsletter",University of Alberta,November 2003,August 2006,2 years 10 months,"Edmonton, Canada Area",2.83333333333,Other
+Scientist,Incyte Genomics,January 2001,February 2003,2 years 2 months,"Palo Alto, California",2.16666666667,Scientist
+Intern,Genentech,1985,1986,1 year,"South San Francisco, California",1.0,Intern
+"Program Analyst, Workforce Development",NACCHO,March 2014,Present,9 months,"Washington, DC",0.75,Other
+"Associate Specialist, Workforce Development",NACCHO,November 2012,Present,2 years 1 month,Washington D.C. Metro Area,2.08333333333,Other
+Assistant House Manager,Shakespeare Theatre Company,April 2012,September 2013,1 year 6 months,Washington D.C. Metro Area,1.5,Manager
+Assistant House Manager,Ford&#39;s Theatre,April 2012,November 2012,8 months,Washington D.C. Metro Area,0.666666666667,Manager
+HR Coordinator/Onboarding Specialist,LivingSocial,February 2011,April 2012,1 year 3 months,Washington D.C. Metro Area,1.25,Other
+Career Services Assistant,George Washington University,August 2010,February 2011,7 months,Washington D.C. Metro Area,0.583333333333,Assistant
+Intellectual Property Marketing Analyst,UC Davis,July 2013,Present,1 year 5 months,"Sacramento, California Area",1.41666666667,Other
+Commercialization Analyst,UniQuest,January 2011,December 2011,1 year,"Brisbane, Australia",1.0,Other
+Community Networker,urbanest Australia,February 2011,November 2011,10 months,"Brisbane, Australia",0.833333333333,Other
+Laboratory Technician,Universidad Nacional de Andres Bello,June 2009,January 2010,8 months,"Santiago, Chile",0.666666666667,Other
+Resident Advisor,UC San Diego,September 2008,June 2009,10 months,Greater San Diego Area,0.833333333333,Other
+Sustainability Representative,UC San Diego,September 2008,June 2009,10 months,Greater San Diego Area,0.833333333333,Other
+Laboratory Technician,Torrey Pines Institute of Molecular Studies,June 2008,June 2009,1 year 1 month,"La Jolla, Califoria",1.08333333333,Other
+"Reporter, Transportation Nation",KALW,2010,2012,2 years,KALW,2.0,Other
+Graduate Student,Stanford University,2008,Present,6 years,San Francisco Bay Area,6.0,Student
+Investor Relations Chair,StartX Med,November 2012,May 2013,7 months,San Francisco Bay Area,0.583333333333,Other
+Product Manager,Google,August 2014,Present,4 months,"Mountain View, CA",0.333333333333,Manager
+Founder,drone.vc,May 2014,Present,7 months,"Redwood City, CA",0.583333333333,Founder
+Founding Director,Hacker Dojo,February 2009,Present,5 years 10 months,"Mountain View, CA",5.83333333333,Other
+Mentor,Founder Institute,May 2010,Present,4 years 7 months,SF Bay Area,4.58333333333,Other
+Product Manager,Facebook,March 2013,August 2014,1 year 6 months,"Menlo Park, CA",1.5,Manager
+CEO,Gaston Labs,March 2012,March 2013,1 year 1 month,"Redwood City, CA",1.08333333333,CEO
+Founder,Mexican.vc,November 2010,August 2012,1 year 10 months,"San Francisco, CA &amp; Mexico City, Mexico",1.83333333333,Founder
+"Founder, Chief Product Officer, and Chairman",PBworks,September 2003,November 2011,8 years 3 months,"San Mateo, CA",8.25,Founder
+Business Development,LinkedIn,January 2012,October 2014,2 years 10 months,Mountain View,2.83333333333,Other
+"Director, Business Development",Monster,November 2009,November 2011,2 years 1 month,San Francisco,2.08333333333,Other
+Marketing Manager,Zynga,November 2008,November 2009,1 year 1 month,San Francisco,1.08333333333,Manager
+Lecturer in Marketing; Lecturer in Communication,Santa Clara University,September 1989,August 2011,22 years,New York,22.0,Academia
+PhD candidate,Stanford University,2011,Present,3 years,San Francisco Bay Area,3.0,Student
+Data scientist,Lawrence Berkeley National Laboratory,2008,2010,2 years,Stanford / LBNL,2.0,Other
+Data scientist,Mascoma Corp.,2006,2008,2 years,"Boston, MA",2.0,Other
+Software Engineer,Funding Circle USA,April 2014,Present,8 months,"chicago, illinois",0.666666666667,Software Eng
+Student,Dev Bootcamp,April 2013,June 2013,3 months,Chicago,0.25,Student
+Payment Operations Analyst,Facebook,December 2012,April 2013,5 months,"Austin, TX",0.416666666667,Other
+Associate Project Manager,UChicagoTech | The University of Chicago,September 2014,Present,3 months,"Chicago, IL",0.25,PM
+"Project Manager, Implementation Consultant",Epic,January 2014,August 2014,8 months,"Madison, Wisconsin",0.666666666667,PM
+"Research Intern, MURF Program",California Institute of Technology,June 2007,August 2007,3 months,"New Orleans, LA",0.25,Intern
+Data Sciences Engineer,Sumo Logic,April 2014,Present,8 months,Redwood City,0.666666666667,Engineer
+Software Engineer,Facebook,February 2013,March 2014,1 year 2 months,"Menlo Park, California",1.16666666667,Software Eng
+Teaching Assistant,The University of Texas at Austin,August 2012,December 2012,5 months,"Austin, Texas Area",0.416666666667,Assistant
+SDE Intern,Microsoft,June 2012,August 2012,3 months,"Redmond, WA",0.25,Intern
+Associate,Vista Equity Partners,July 2012,Present,2 years 5 months,Greater New York City Area,2.41666666667,Other
+B.S. in Biomedical Engineering / Economics,Washington University in St. Louis,September 2006,June 2010,3 years 10 months,Greater St. Louis Area,3.83333333333,Engineer
+"Manager, Human Resources",Quixey,July 2014,Present,5 months,"Mountain View, CA",0.416666666667,Manager
+"HR Generalist, People Operations",Quixey,August 2011,June 2014,2 years 11 months,"Mountain View, CA",2.91666666667,Other
+Student Leadership (Various Positions),James Madison University,August 2007,May 2011,3 years 10 months,Education,3.83333333333,Student
+Marketing Consultant,Intuit,August 2013,November 2013,4 months,San Francisco Bay Area,0.333333333333,Consultant
+Marketing Director,GoodApril,June 2013,August 2013,3 months,San Francisco Bay Area,0.25,Other
+Senior Search Manager,Mediasmith,November 2012,July 2013,9 months,San Francisco Bay Area,0.75,Manager
+Associate User Experience Researcher,LinkedIn,May 2014,Present,7 months,"Mountain View, CA",0.583333333333,Research
+Graduate Student Researcher,Art Center College of Design,May 2012,August 2013,1 year 4 months,"Pasadena, CA and Kampala, Uganda",1.33333333333,Student
+Communications &amp; Development Associate,DC Central Kitchen,January 2009,July 2010,1 year 7 months,"Washington, DC",1.58333333333,Other
+Director of Growth &amp; Partnerships,Zipfian Academy,August 2013,Present,1 year 4 months,San Francisco Bay Area,1.33333333333,Other
+Resident Director,University of Washington,July 2011,Present,3 years 5 months,Greater Seattle Area,3.41666666667,Other
+Co-Founder,Science Exchange,2011,Present,3 years,"Palo Alto, CA",3.0,Founder
+Vice President &amp; Head of Operations,DailyMe Inc.,2008,2011,3 years,Miami/Fort Lauderdale Area,3.0,Other
+Strategy &amp; Economics Manager,Channel 4 Television Corporation,2005,2008,3 years,"London, United Kingdom",3.0,Manager
+Senior Consultant,LECG Inc.,2000,2005,5 years,"London, United Kingdom",5.0,Consultant
+Family Room Specialist,Apple,March 2012,May 2013,1 year 3 months,"Towson, MD",1.25,Other
+Producer/Editor,Glazer-Kennedy Insiders Circle,January 2011,January 2012,1 year 1 month,"Towson, MD",1.08333333333,Other
+Student Production Intern,DIGICO Shoot | Post | Design,September 2010,December 2010,4 months,"Harrisonburg, VA",0.333333333333,Intern
+Operations Supervisor and Marketing Assistant,James Madison University,September 2008,December 2010,2 years 4 months,"Harrisonburg, VA",2.33333333333,Assistant
+Student Intern,Post-Op Media,May 2010,July 2010,3 months,"Arlington, VA",0.25,Intern
+Health Graduate Fellow,Congressional Hispanic Caucus Institute (CHCI),August 2014,Present,4 months,Washington D.C. Metro Area,0.333333333333,Other
+Research Assistant,Harvard Law School,January 2014,August 2014,8 months,"Cambridge, MA",0.666666666667,Research
+Research Assistant,Harvard School of Public Health,September 2013,May 2014,9 months,"Boston, MA",0.75,Research
+Legal Intern,ChangeLab Solutions,May 2013,July 2013,3 months,"Oakland, California",0.25,Intern
+Assistant Dean for Graduate Education,Stanford University School of Medicine,November 2012,Present,2 years 1 month,"Stanford, CA",2.08333333333,Assistant
